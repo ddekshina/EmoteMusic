@@ -14,7 +14,7 @@ class EmotionMusicApp:
         self.emotion = tk.StringVar(value="Detecting...")
 
         # Logo / Image
-        img = Image.open("assets/background.jpg").resize((500, 250))
+        img = Image.open("assets/background.jpg").resize((500, 350))
         self.bg_image = ImageTk.PhotoImage(img)
         tk.Label(root, image=self.bg_image).pack()
 
