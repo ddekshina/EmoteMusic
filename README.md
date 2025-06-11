@@ -18,7 +18,7 @@ The EmoteMusic project is a Python-based application designed to create an emoti
 ## Getting Started
 ### Clone the Repository
 ```
-git clone https://github.com/yourusername/emotemusic.git
+git clone https://github.com/ddekshina/emotemusic.git
 cd emotemusic
 ```
 ### Set Up a Virtual Environment
